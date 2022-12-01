@@ -1,7 +1,7 @@
-Jenkinsfile (karthik--> pipeline)
+Jenkinsfile (prasanth-devloped pipeline)
 pipeline {
     agent any 
-    stages {
+    stages {this stage is prasanth
         stage('Build') { 
             steps {
                 // 
