@@ -1,7 +1,7 @@
-Jenkinsfile (karthik--> pipeline)
+Jenkinsfile (karthik--> devolp pipeline
 pipeline {
     agent any 
-    stages {
+    stages { this stage is karthik
         stage('Build') { 
             steps {
                 // 
