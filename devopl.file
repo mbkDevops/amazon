@@ -1,4 +1,4 @@
-Jenkinsfile (karthik--> devolp pipeline
+Jenkinsfile (karthik--> devolp pieline
 pipeline {
     agent any 
     stages { this stage is karthik
